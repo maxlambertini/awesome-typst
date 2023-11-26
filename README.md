@@ -39,6 +39,7 @@ PRs welcomed!
     - [Posters](#posters)
     - [Scripting](#scripting)
     - [Slides](#slides)
+    - [Tabletop Roleplaying Games](#tabletop-roleplaying-games)
 
 <!-- markdown-toc end -->
 
